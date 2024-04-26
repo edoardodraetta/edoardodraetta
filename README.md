@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**edoardodraetta/edoardodraetta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my github page. 
 
-Here are some ideas to get you started:
+I'm a data scientist and physicist who loves programming for fun!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Languages I've Coded In
+- Python for data science: Leveraging libraries like Pandas, NumPy, and Scikit-Learn to analyze and interpret complex datasets.
+- C++ for numerical simulations: Building efficient, high-performance simulations for physics-related problems.
+
+#### I'm learning [Godot](https://godotengine.org)!
+- [Vampire Survivors Clone](https://github.com/edoardodraetta/ninja_survivors)
+
+#### 🌱 What I'm Exploring Now
+Deepening my understanding of machine learning algorithms and their applications in real-world scenarios.
+Experimenting with game development to create engaging, educational tools for physics students.
+
+#### ⚡ Fun Fact
+Every 2 months I develop a new hobby! Ask me what I'm on about lately...!
