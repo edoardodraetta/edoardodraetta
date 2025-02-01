@@ -1,19 +1,34 @@
 ### Hi there 👋
 
-Welcome to my github page. 
+Welcome to my GitHub page!
 
-I'm a data scientist and physicist who loves programming for fun!
+I'm a bilingual **data scientist** and **physicist** who loves programming for fun! Whether it's crunching numbers, simulating biophysical systems, or exploring game development, I enjoy tackling new challenges with code.
 
-#### Languages I've Coded In
-- Python for data science: Leveraging libraries like Pandas, NumPy, and Scikit-Learn to analyze and interpret complex datasets.
-- C++ for numerical simulations: Building efficient, high-performance simulations for problems in biophysics.
+---
 
-#### I'm learning [Godot](https://godotengine.org)!
-- [Vampire Survivors Clone](https://github.com/edoardodraetta/ninja_survivors)
+### 🖥️ Languages & Technologies
+- **Python for Data Science**: Leveraging libraries like Pandas, NumPy, and Scikit-Learn to analyze and interpret complex datasets.
+- **C++ for Numerical Simulations**: Building efficient, high-performance simulations for problems in biophysics.
+- **Godot for Game Development**: Exploring the world of game design and interactive simulations.
 
-#### 🌱 What I'm Exploring Now
-Deepening my understanding of machine learning algorithms and their applications in real-world scenarios.
-Experimenting with game development to create engaging, educational tools for physics students.
+---
 
-#### ⚡ Fun Fact
-Every 2 months I develop a new hobby! Ask me what I'm on about lately...!
+### 🚀 Projects & Learning
+#### 🤖 Machine Learning & AI
+- **[IMDb Sentiment Analysis in Marimo](https://github.com/edoardodraetta/sentiment_analysis_marimo)** – A simple NLP project for trying out marimo.
+
+#### 🎮 Game Development
+- **[Vampire Survivors Clone](https://github.com/edoardodraetta/ninja_survivors)** – A fun project built in **Godot** to experiment with game mechanics and design.
+- **I'm learning [Godot](https://godotengine.org)!** – Excited to dive deeper into game engines and interactive programming.
+
+---
+
+### 🌱 What I'm Exploring Now
+- Enhancing my knowledge of **deep learning** and **NLP**.
+- Experimenting with **game development** to create engaging, educational tools for physics students.
+- Learning about **Bayesian inference** for scientific computing.
+
+---
+
+### ⚡ Fun Fact
+Every **2 months**, I develop a new hobby! Ask me what I'm about lately...
