@@ -19,7 +19,6 @@ I'm a bilingual **data scientist** and **physicist** who loves programming for f
 
 #### 🎮 Game Development
 - **[Vampire Survivors Clone](https://github.com/edoardodraetta/ninja_survivors)** – A fun project built in **Godot** to experiment with game mechanics and design.
-- **I'm learning [Godot](https://godotengine.org)!** – Excited to dive deeper into game engines and interactive programming.
 
 ---
 
