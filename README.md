@@ -24,7 +24,6 @@ I'm a bilingual **data scientist** and **physicist** who loves programming for f
 
 ### 🌱 What I'm Exploring Now
 - Enhancing my knowledge of **deep learning** and **NLP**.
-- Experimenting with **game development** to create engaging, educational tools for physics students.
 - Learning about **Bayesian inference** for scientific computing.
 
 ---
