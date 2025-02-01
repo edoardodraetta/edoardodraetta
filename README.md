@@ -6,7 +6,7 @@ I'm a data scientist and physicist who loves programming for fun!
 
 #### Languages I've Coded In
 - Python for data science: Leveraging libraries like Pandas, NumPy, and Scikit-Learn to analyze and interpret complex datasets.
-- C++ for numerical simulations: Building efficient, high-performance simulations for physics-related problems.
+- C++ for numerical simulations: Building efficient, high-performance simulations for problems in biophysics.
 
 #### I'm learning [Godot](https://godotengine.org)!
 - [Vampire Survivors Clone](https://github.com/edoardodraetta/ninja_survivors)
